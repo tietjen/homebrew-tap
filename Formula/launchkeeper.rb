@@ -1,8 +1,8 @@
 class Launchkeeper < Formula
   desc "Autoruns for macOS: inventory, control and cleanup of what starts automatically"
   homepage "https://github.com/tietjen/launchkeeper"
-  url "https://github.com/tietjen/launchkeeper/releases/download/v0.5.0/launchkeeper-v0.5.0-macos-universal.tar.gz"
-  sha256 "fe5651bba4cf53d6505bce4a1979b349801e580a715b2683bd12fb9912f5d0de"
+  url "https://github.com/tietjen/launchkeeper/releases/download/v0.5.1/launchkeeper-v0.5.1-macos-universal.tar.gz"
+  sha256 "eb734e0cba55c5ab42cd310231eab742edffec8192fea4746ef14f1e1dfcd5ec"
   license "MIT"
 
   depends_on macos: :sonoma

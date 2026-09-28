@@ -1,6 +1,6 @@
 cask "launchkeeper-app" do
-  version "0.3.5"
-  sha256 "70cd747ca84e5b2a32c7bb2fa9f65281400c1a1ea2b92e1f7a74a99220d30f0b"
+  version "1.0.0"
+  sha256 "94ebcfe569e200f0e4f12aeeebc86c39f291ffde21418a70749b13e3600fc4ae"
 
   url "https://github.com/tietjen/launchkeeper-app/releases/download/v#{version}/LaunchKeeper-#{version}.dmg"
   name "LaunchKeeper"

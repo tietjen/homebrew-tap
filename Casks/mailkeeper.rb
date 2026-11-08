@@ -1,6 +1,6 @@
 cask "mailkeeper" do
-  version "0.2.0"
-  sha256 "80ab35bb04b8654450d12dd0c9cebf2b0f6941dd4825c3485e9b61b9e0b4abe9"
+  version "0.2.1"
+  sha256 "0fd3cf6dd335f2463650216fb06117b8de24a128ffa175d628de57b32f7b45f0"
 
   url "https://github.com/tietjen/mailkeeper/releases/download/v#{version}/MailKeeper-#{version}.dmg"
   name "MailKeeper"

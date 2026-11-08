@@ -16,8 +16,7 @@ cask "mailkeeper" do
   # both replace the app and fight over it; with it, Homebrew leaves the app alone and only
   # `brew upgrade --greedy` touches it.
   auto_updates true
-
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "MailKeeper.app"
 
